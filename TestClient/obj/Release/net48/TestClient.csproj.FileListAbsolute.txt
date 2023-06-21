@@ -1,0 +1,14 @@
+C:\Users\fride\source\repos\MysqlServer\TestClient\bin\Release\net48\TestClient.exe.config
+C:\Users\fride\source\repos\MysqlServer\TestClient\bin\Release\net48\TestClient.exe
+C:\Users\fride\source\repos\MysqlServer\TestClient\bin\Release\net48\TestClient.pdb
+C:\Users\fride\source\repos\MysqlServer\TestClient\obj\Release\net48\TestClient.csproj.AssemblyReference.cache
+C:\Users\fride\source\repos\MysqlServer\TestClient\obj\Release\net48\TestClient.csproj.SuggestedBindingRedirects.cache
+C:\Users\fride\source\repos\MysqlServer\TestClient\obj\Release\net48\TestClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fride\source\repos\MysqlServer\TestClient\obj\Release\net48\TestClient.AssemblyInfoInputs.cache
+C:\Users\fride\source\repos\MysqlServer\TestClient\obj\Release\net48\TestClient.AssemblyInfo.cs
+C:\Users\fride\source\repos\MysqlServer\TestClient\obj\Release\net48\TestClient.csproj.CoreCompileInputs.cache
+C:\Users\fride\source\repos\MysqlServer\TestClient\obj\Release\net48\TestClient.csproj.Fody.CopyLocal.cache
+C:\Users\fride\source\repos\MysqlServer\TestClient\obj\Release\net48\TestClient.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\fride\source\repos\MysqlServer\TestClient\obj\Release\net48\TestClient.exe
+C:\Users\fride\source\repos\MysqlServer\TestClient\obj\Release\net48\TestClient.pdb
+C:\Users\fride\source\repos\MysqlServer\TestClient\obj\Release\net48\TestClient.exe.config
